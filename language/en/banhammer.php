@@ -66,4 +66,5 @@ $lang = array_merge($lang, array(
 	'SURE_BAN'		=> 'Are you sure you want to ban <strong>%s</strong>?', // %s will be a username.
 
 	'THIS_WILL'	=> 'This will',
+	'EXTENSION_REQUIREMENTS' => 'Extension requires at least phpBB version %1$s. You need to update your version of phpBB to utilize this extension.',
 ));
